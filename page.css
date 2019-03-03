@@ -89,7 +89,7 @@ a {
 
 .page__content {
     display: table;
-    opacity: 1;
+    opacity: 0;
 }
 
 .page__contentInner {
